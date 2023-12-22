@@ -1,6 +1,6 @@
 
-print("hello from surya and pradeep")
+print("hello from Santhosh...!")
 
-print(a+b=c)
+print(a^2+b^2=2ab)
 
-print("modefied in master branch")
+print("modefied in santhosh branch")
