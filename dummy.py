@@ -1,6 +1,6 @@
 
 print("hello this is vazanth..!")
 
-print(a+b=c)
+print(a^2+b^2=2ab)
 
-print("modefied in vazanth branch")
+print("modefied in santhosh branch")
