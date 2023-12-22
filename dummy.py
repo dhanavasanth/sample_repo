@@ -1,5 +1,5 @@
-print("hello")
+print("hello my name is surya")
 
-print(a+b)
+print(a+b+c)
 
-print("modefied in pradeep")
+print("modefied in surya's branch")
