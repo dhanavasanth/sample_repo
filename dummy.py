@@ -1,5 +1,6 @@
-print("hello my name is surya")
 
-print(a+b+c)
+print("hello from surya and pradeep")
 
-print("modefied in surya's branch")
+print(a+b=c)
+
+print("modefied in master branch")
