@@ -1,6 +1,6 @@
 
-print("hello from surya and pradeep")
+print("hello this is vazanth..!")
 
 print(a+b=c)
 
-print("modefied in master branch")
+print("modefied in vazanth branch")
